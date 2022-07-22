@@ -16,4 +16,5 @@
 `terraform.rc`  конкретный файл  
   
   новая строка
-  IDE PyCharmCommit
+  IDE PyCharm Commit 1
+  IDE PyCharm Commit 2
