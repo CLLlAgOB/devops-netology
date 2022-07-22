@@ -14,3 +14,5 @@
 `*_override.tf.json`  файлы заканчивающиеся на _override.tf.json  
 `.terraformrc` конкретный файл  
 `terraform.rc`  конкретный файл  
+  
+  новая строка
