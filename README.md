@@ -16,3 +16,4 @@
 `terraform.rc`  конкретный файл  
   
   новая строка
+  IDE PyCharmCommit
